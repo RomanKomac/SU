@@ -1,0 +1,3 @@
+/home/roman/SU/Code/BoW/CMakeFiles/rebuild_cache.dir
+/home/roman/SU/Code/BoW/CMakeFiles/BoW.dir
+/home/roman/SU/Code/BoW/CMakeFiles/edit_cache.dir
